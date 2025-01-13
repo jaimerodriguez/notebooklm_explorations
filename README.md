@@ -6,5 +6,5 @@ It contains summaries and media files created using [Google's Notebook LM,](http
 
 I generate these for my runs. I expect most of these will be about cloud-native development, generative AI, or self-improvement.
 
-Happy learning! 
+Happy learning!     
 Jaime
