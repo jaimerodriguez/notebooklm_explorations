@@ -2,7 +2,7 @@
 
 Notebook LM's "Briefing" feature generated the summary below. It has some glaring mistakes, such as missing the first pillar (Reliability). I recommend regenerating from the source [PDF](https://github.com/jaimerodriguez/notebooklm_explorations/Azure-WAF/azure-well-architected.pdf).  The source PDF comes from the "download PDF" link on the bottom left of the [WAF documentation](https://https://learn.microsoft.com/en-us/azure/well-architected/pillars).  
 
-I mostly wanted the [audio](). That file came out better and its usable.
+I mostly wanted the [audio](). That file is usable. 
 
 ## Azure Well-Architected Framework Briefing Document
 
