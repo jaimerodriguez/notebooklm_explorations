@@ -1,14 +1,14 @@
 # Azure WAF Generated Briefing
 
-This is the briefing doc Notebook LM generated via the "Briefing" feature in Notebook LM. It has some glaring mistakes, such as missing the first pillar (Reliability). I recommend you regenerating from the source [PDF](https://github.com/jaimerodriguez/notebooklm_explorations/Azure-WAF/azure-well-architected.pdf). The PDF's source is the [WAF documentation](https://https://learn.microsoft.com/en-us/azure/well-architected/pillars). Check the download PDF link on the bottom left.
+Notebook LM's "Briefing" feature generated the summary below. It has some glaring mistakes, such as missing the first pillar (Reliability). I recommend regenerating from the source [PDF](https://github.com/jaimerodriguez/notebooklm_explorations/Azure-WAF/azure-well-architected.pdf).  The source PDF comes from the "download PDF" link on the bottom left of the [WAF documentation](https://https://learn.microsoft.com/en-us/azure/well-architected/pillars).  
 
-I mostly wanted the [audio]("<https://github.com/jaimerodriguez/notebooklm_explorations/blob/main/Azure-WAF/Azure%20Well-Architected%20Framework%20Guide.wav"). That file came out better and its usable.
+I mostly wanted the [audio](). That file came out better and its usable.
 
 ## Azure Well-Architected Framework Briefing Document
 
 This briefing document summarizes key themes and important facts from the provided excerpts of the "azure-well-architected.    pdf" document.     It focuses on the five pillars of the framework: Reliability, Security, Cost Optimization, Operational Excellence, and Performance Efficiency.
 **I. Design & Architecture:**
-• Deliverables: The design process should result in an architecture design specification with diagrams, detailed architecture diagrams covering all system aspects, and a maintained Architecture Decision Record (ADR) justifying design choices.
+• Deliverables: The design process should result in an architecture design specification with diagrams, detailed architecture diagrams covering all system aspects, and a maintained Architecture Decision Record (ADR) justifying design choices.   
 • Diagram Types: Diagrams range from high-level system overviews to specific block diagrams, which illustrate major functional blocks in a technology-agnostic way.
 • Polyglot Persistence: Utilizing multiple storage technologies for different bounded contexts within a system can optimize data storage and retrieval.     Compensating transactions are crucial for maintaining data consistency across diverse stores.
 • Service Level Objectives (SLOs):SLOs define measurable performance and reliability targets for workloads or applications based on customer expectations.
